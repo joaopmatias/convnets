@@ -8,6 +8,7 @@ Coimbra, September 28th
 - Jupyter notebook
 - Chrome extension: [Fatkun](https://chrome.google.com/webstore/detail/fatkun-batch-download-ima/nnjjahlikiabnchcpehcpkdeckfgnohf).
 - This repository
+- The zip files used in the code are also at [Google Drive](https://drive.google.com/drive/u/0/folders/1ZchcOIrjul7jAaDsDcAppBoCwYqIT9py).
 
 **Packages**
 - TensorFlow, Keras
