@@ -29,7 +29,3 @@ Google also provides the platform [Colab](https://colab.research.google.com) tha
 
 This solution requires an internet connection and the computational power provided may vary.
 
-
-## More updates soon
-
-The exercises will be uploaded soon, so download them **on Saturday, before the event**.
