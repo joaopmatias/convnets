@@ -29,3 +29,9 @@ Google also provides the platform [Colab](https://colab.research.google.com) tha
 
 This solution requires an internet connection and the computational power provided may vary.
 
+### References
+
+[Convolutional Neural Networks in Tensorflow (Coursera)](https://www.coursera.org/learn/convolutional-neural-networks-tensorflow)
+
+
+[Siraj Raval (Build a TensorFlow Image Classifier in 5 Min)](https://www.youtube.com/watch?v=QfNvhPx5Px8)
